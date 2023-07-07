@@ -1,0 +1,1 @@
+const intervalID = setInterval(myCallback, 1000);
